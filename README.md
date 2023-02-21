@@ -19,6 +19,10 @@ A short video demo of the complete project:
 
 
 
+https://user-images.githubusercontent.com/112818778/220391066-411729af-9fcd-4267-97ed-2e41a649cd14.mp4
+
+
+
 
 
 
@@ -30,11 +34,23 @@ A couple of Screenshots:
 
 
 
+<img width="959" alt="n1" src="https://user-images.githubusercontent.com/112818778/220390205-2607df64-d69e-41a3-af3d-7979f0675cc0.png">
+
+
+
+<img width="938" alt="n2" src="https://user-images.githubusercontent.com/112818778/220390309-dd9c8f89-c955-43e2-a0c4-04ab9644f7ad.png">
+
+
+
+<img width="956" alt="n3" src="https://user-images.githubusercontent.com/112818778/220390360-270f6663-bc13-4d4c-9f4c-a384c73e1a4f.png">
+
+
+
 
 ## Deployment
 
 The deployed link of the project: 
-#### 
+#### https://googlekeepnoteapp.netlify.app/
 
 ## Contributions
 
