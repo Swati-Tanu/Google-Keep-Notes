@@ -1,6 +1,6 @@
 # Google-Keep-Notes
 
-### This is a Note App that enables to write, read, edit, delete and store notes.It is made using Javascript, CSS3 and HTML5.
+### This is a Notes App that enables to write, read, edit, delete and store notes.It is made using Javascript, CSS3 and HTML5.
 
 A simple app that enables to write, read, edit, delete and store notes. The application is based on CRUD operation and additional features. This is made using DOM Manipulation, functions, CRUD operations, LocalStorage, etc.
 
